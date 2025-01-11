@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Weather Forecast",
+      "imageSrc": "projects/weather_forecast.png",
+      "description": "This was a project I did in school to learn more about using REST APIs.",
+      "skills": ["Javascript", "HTML", "CSS", "Python", "REST"],
+      "demo": "https://ancient-ivy-408800.uc.r.appspot.com/",
+      "source": "https://github.com/jimmyshultz/weather_forecast_application"
+    },
+    {
+      "title": "Meal Planning",
+      "imageSrc": "projects/meal_planning.png",
+      "description": "I created this project to grasp database, backend, and frontend integration.",
+      "skills": ["Python", "Flask", "MySQL", "Javascript", "HTML & CSS", "REST"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/jimmyshultz/MealPlanningApplication"
+    },
+    {
+      "title": "Portfolio & Blog",
+      "imageSrc": "projects/portfolio_blog.png",
+      "description": "This is a previous portfolio website I created that included a blog.",
+      "skills": ["Python", "Django", "HTML", "CSS", "Bootstrap"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/jimmyshultz/resume_site"
+    }
+]

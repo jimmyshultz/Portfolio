@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Python",
+        "imageSrc": "skills/python.png"
+    },
+    {
+        "title": "Django",
+        "imageSrc": "skills/django.png"
+    },
+    {
+        "title": "Flask",
+        "imageSrc": "skills/flask.png"
+    },
+    {
+        "title": "Pandas",
+        "imageSrc": "skills/pandas.png"
+    },
+    {
+        "title": "SQL",
+        "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Javascript",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+        "title": "REST APIs",
+        "imageSrc": "skills/restapi.png"
+    },
+    {
+        "title": "SOAP",
+        "imageSrc": "skills/soap.png"
+    },
+    {
+        "title": "C#",
+        "imageSrc": "skills/csharp.png"
+    },
+    {
+        "title": ".NET",
+        "imageSrc": "skills/dotnet.png"
+    },
+    {
+        "title": "C++",
+        "imageSrc": "skills/cpp.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "skills/java.png"
+    },
+    {
+        "title": "Go",
+        "imageSrc": "skills/golang.png"
+    },
+    {
+        "title": "Swift",
+        "imageSrc": "skills/swift.png"
+    },
+    {
+        "title": "Bash",
+        "imageSrc": "skills/bash.png"
+    },
+    {
+        "title": "GCP",
+        "imageSrc": "skills/gcp.png"
+    },
+    {
+        "title": "AWS",
+        "imageSrc": "skills/aws.png"
+    }
+  ]

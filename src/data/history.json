@@ -1,0 +1,39 @@
+[
+    {
+      "role": "Software Engineer",
+      "organisation": "Regions Bank",
+      "startDate": "Sept, 2024",
+      "endDate": "Present",
+      "experiences": ["Developed apps to replace legacy manual process", 
+                      "Engineered a solution to automate federal reporting",
+                      "Converted legacy SAS scripts and Excel macros into Python",
+                      "Maintained SLDC with Jira"
+                    ],
+      "imageSrc": "history/regions.png"
+    },
+    {
+      "role": "Technology Advisor",
+      "organisation": "Dell",
+      "startDate": "Jul, 2023",
+      "endDate": "Sept, 2024",
+      "experiences": ["Advised businesses on end-to-end IT solutions", 
+                      "Distilled complicated technical information to actionable insights", 
+                      "Promoted to pilot team focused on advising IT consultants",
+                      "Trained in technical specialist apprenticeship"
+                    ],
+      "imageSrc": "history/dell.png"
+    },
+    {
+      "role": "Business Development Representative",
+      "organisation": "Google Cloud via Concentrix",
+      "startDate": "Jul, 2022",
+      "endDate": "Jun, 2023",
+      "experiences": [
+        "Presented details and advantages of cloud solutions to C-suite executives",
+        "Consistently overacheived quota (120-136%)",
+        "Trained new hires on various Google Cloud technologies",
+        "Won weekly and quarterly awards for overall success and collaboration"
+      ],
+      "imageSrc": "history/google.png"
+    }
+  ]
