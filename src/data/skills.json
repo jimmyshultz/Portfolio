@@ -78,5 +78,13 @@
     {
         "title": "AWS",
         "imageSrc": "skills/aws.png"
+    },
+    {
+        "title": "CI/CD",
+        "imageSrc": "skills/cicd.png"
+    },
+    {
+        "title": "Github Actions",
+        "imageSrc": "skills/github-actions.png"
     }
   ]
