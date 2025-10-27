@@ -1,5 +1,3 @@
-import React from "react";
-
 import styles from "./Certifications.module.css";
 import certifications from "../../data/certifications.json";
 
