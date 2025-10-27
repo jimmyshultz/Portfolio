@@ -1,5 +1,28 @@
 [
     {
+      "title": "Resonare",
+      "imageSrc": "projects/resonare.png",
+      "description": "Social music discovery app inspired by Letterboxd for tracking and sharing album experiences. Currently in beta testing.",
+      "skills": ["React Native", "TypeScript", "Redux", "Supabase"],
+      "source": "https://github.com/jimmyshultz/musicboxd"
+    },
+    {
+      "title": "Marathon Training Plans",
+      "imageSrc": "projects/marathon_plans.png",
+      "description": "Web application where users can view pre-made marathon training plans or generate custom ones based on their requirements.",
+      "skills": ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+      "demo": "https://marathontrainingplans.jimmyshultz.com/",
+      "source": "https://github.com/jimmyshultz/marathon-plan-website"
+    },
+    {
+      "title": "Setlist Sequence",
+      "imageSrc": "projects/setlist_sequence.png",
+      "description": "Fan engagement platform for music artists to allow fan concert setlist creation.",
+      "skills": ["React", "Next.js", "TypeScript"],
+      "demo": "https://www.setlistsequence.com/",
+      "source": "https://github.com/jimmyshultz/setlist_creator"
+    },
+    {
       "title": "Weather Forecast",
       "imageSrc": "projects/weather_forecast.png",
       "description": "This was a project I did in school to learn more about using REST APIs.",
