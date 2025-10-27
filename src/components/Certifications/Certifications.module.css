@@ -1,0 +1,132 @@
+@import "../../vars.css";
+
+.container {
+  position: relative;
+  background-color: rgba(12, 12, 12, 0.6);
+  border-radius: 15px;
+  padding: 73px;
+  margin-top: 129px;
+  z-index: 1;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.title {
+  color: var(--color-text);
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+  padding-bottom: 20px;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.certificationItems {
+  color: var(--color-text);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 40px;
+  justify-content: center;
+  width: 100%;
+}
+
+.certificationItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border-radius: 20px;
+  list-style: none;
+  padding: 35px;
+  background-image: linear-gradient(
+    90deg,
+    rgba(220, 220, 220, 0.42) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  background-size: 0 100%;
+  background-repeat: no-repeat;
+  transition: 0.4s;
+  max-width: 350px;
+  min-width: 280px;
+}
+
+.certificationItem:hover {
+  background-size: 100% 100%;
+  transform: translateY(-5px);
+}
+
+.certBadge {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  margin-bottom: 20px;
+}
+
+.certificationItemText h3 {
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  line-height: 1.3;
+}
+
+.issuer {
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 8px;
+}
+
+.date {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.6);
+  margin-bottom: 15px;
+}
+
+.credentialLink {
+  display: inline-block;
+  color: var(--color-primary);
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 10px;
+  transition: 0.3s;
+}
+
+.credentialLink:hover {
+  color: var(--color-secondary);
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    background-color: transparent;
+    padding: 40px 20px;
+    margin-top: 80px;
+  }
+
+  .certificationItems {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .certificationItem {
+    max-width: 100%;
+    padding: 25px;
+  }
+
+  .certBadge {
+    width: 120px;
+    height: 120px;
+  }
+
+  .certificationItemText h3 {
+    font-size: 20px;
+  }
+}
+
