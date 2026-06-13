@@ -4,44 +4,16 @@
         "imageSrc": "skills/python.png"
     },
     {
-        "title": "Django",
-        "imageSrc": "skills/django.png"
+        "title": "Javascript",
+        "imageSrc": "skills/javascript.png"
     },
     {
-        "title": "Flask",
-        "imageSrc": "skills/flask.png"
+        "title": "TypeScript",
+        "imageSrc": "skills/typescript.svg"
     },
     {
-        "title": "Pandas",
-        "imageSrc": "skills/pandas.png"
-    },
-    {
-        "title": "SQL",
-        "imageSrc": "skills/sql.png"
-    },
-    {
-      "title": "HTML",
-      "imageSrc": "skills/html.png"
-    },
-    {
-      "title": "CSS",
-      "imageSrc": "skills/css.png"
-    },
-    {
-      "title": "React",
-      "imageSrc": "skills/react.png"
-    },
-    {
-      "title": "Javascript",
-      "imageSrc": "skills/javascript.png"
-    },
-    {
-        "title": "REST APIs",
-        "imageSrc": "skills/restapi.png"
-    },
-    {
-        "title": "SOAP",
-        "imageSrc": "skills/soap.png"
+        "title": "Java",
+        "imageSrc": "skills/java.png"
     },
     {
         "title": "C#",
@@ -52,39 +24,127 @@
         "imageSrc": "skills/dotnet.png"
     },
     {
-        "title": "C++",
-        "imageSrc": "skills/cpp.png"
+        "title": "VB.NET",
+        "imageSrc": "skills/vbnet.svg"
     },
     {
-        "title": "Java",
-        "imageSrc": "skills/java.png"
-    },
-    {
-        "title": "Go",
-        "imageSrc": "skills/golang.png"
-    },
-    {
-        "title": "Swift",
-        "imageSrc": "skills/swift.png"
+        "title": "SQL",
+        "imageSrc": "skills/sql.png"
     },
     {
         "title": "Bash",
         "imageSrc": "skills/bash.png"
     },
     {
-        "title": "GCP",
-        "imageSrc": "skills/gcp.png"
+        "title": "HTML",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "Django",
+        "imageSrc": "skills/django.png"
+    },
+    {
+        "title": "Flask",
+        "imageSrc": "skills/flask.png"
+    },
+    {
+        "title": "Celery",
+        "imageSrc": "skills/celery.svg"
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "Bootstrap",
+        "imageSrc": "skills/bootstrap.svg"
+    },
+    {
+        "title": "Pandas",
+        "imageSrc": "skills/pandas.png"
+    },
+    {
+        "title": "Matplotlib",
+        "imageSrc": "skills/matplotlib.svg"
+    },
+    {
+        "title": "TensorFlow",
+        "imageSrc": "skills/tensorflow.svg"
+    },
+    {
+        "title": "Pytest",
+        "imageSrc": "skills/pytest.svg"
+    },
+    {
+        "title": "REST APIs",
+        "imageSrc": "skills/restapi.png"
+    },
+    {
+        "title": "GraphQL",
+        "imageSrc": "skills/graphql.png"
+    },
+    {
+        "title": "MySQL",
+        "imageSrc": "skills/mysql.svg"
+    },
+    {
+        "title": "Postgres",
+        "imageSrc": "skills/postgres.svg"
+    },
+    {
+        "title": "OracleDB",
+        "imageSrc": "skills/oracledb.svg"
+    },
+    {
+        "title": "Hive",
+        "imageSrc": "skills/hive.svg"
+    },
+    {
+        "title": "Snowflake",
+        "imageSrc": "skills/snowflake.svg"
     },
     {
         "title": "AWS",
         "imageSrc": "skills/aws.png"
     },
     {
+        "title": "GCP",
+        "imageSrc": "skills/gcp.png"
+    },
+    {
+        "title": "OpenShift",
+        "imageSrc": "skills/openshift.svg"
+    },
+    {
         "title": "CI/CD",
         "imageSrc": "skills/cicd.png"
     },
     {
+        "title": "GitHub",
+        "imageSrc": "skills/github.svg"
+    },
+    {
         "title": "Github Actions",
         "imageSrc": "skills/github-actions.png"
+    },
+    {
+        "title": "Artifactory",
+        "imageSrc": "skills/artifactory.svg"
+    },
+    {
+        "title": "UiPath",
+        "imageSrc": "skills/uipath.svg"
+    },
+    {
+        "title": "GitHub Copilot",
+        "imageSrc": "skills/github-copilot.svg"
+    },
+    {
+        "title": "Claude Code",
+        "imageSrc": "skills/claude.svg"
     }
-  ]
+]
