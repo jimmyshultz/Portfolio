@@ -4,10 +4,11 @@
       "organisation": "Regions Bank",
       "startDate": "Sept, 2024",
       "endDate": "Present",
-      "experiences": ["Developed apps to replace legacy manual process", 
-                      "Engineered a solution to automate federal reporting",
-                      "Converted legacy SAS scripts and Excel macros into Python",
-                      "Maintained SLDC with Jira"
+      "experiences": ["Built containerized Python/SQL apps to automate data reporting",
+                      "Cut annual risk report generation from ~1 month to under 24 hours (97% reduction)",
+                      "Eliminated 10+ security vulnerabilities and resolved 3 inherited findings in the Enterprise Wide Risk Assessment",
+                      "Selected for the Regions AI Influencer program to drive org-wide AI adoption",
+                      "Built a UiPath/VB.NET proof of concept for compliance test automation, securing pilot approval"
                     ],
       "imageSrc": "history/regions.png"
     },
