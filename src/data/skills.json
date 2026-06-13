@@ -124,6 +124,10 @@
         "imageSrc": "skills/cicd.png"
     },
     {
+        "title": "Agile",
+        "imageSrc": "skills/agile.svg"
+    },
+    {
         "title": "GitHub",
         "imageSrc": "skills/github.svg"
     },
@@ -136,12 +140,20 @@
         "imageSrc": "skills/artifactory.svg"
     },
     {
+        "title": "Harness",
+        "imageSrc": "skills/harness.svg"
+    },
+    {
         "title": "UiPath",
         "imageSrc": "skills/uipath.svg"
     },
     {
         "title": "GitHub Copilot",
         "imageSrc": "skills/github-copilot.svg"
+    },
+    {
+        "title": "Microsoft Copilot",
+        "imageSrc": "skills/microsoft-copilot.svg"
     },
     {
         "title": "Claude Code",
