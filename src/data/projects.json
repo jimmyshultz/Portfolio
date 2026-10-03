@@ -1,5 +1,12 @@
 [
     {
+      "title": "Budget",
+      "imageSrc": "projects/budget.png",
+      "description": "Local-only budgeting desktop app inspired by Mint that syncs bank transactions through Plaid with no backend, keeping all data on your own computer. Released and open source.",
+      "skills": ["Electron", "Next.js", "TypeScript", "SQLite", "Plaid API"],
+      "source": "https://github.com/jimmyshultz/budget_app"
+    },
+    {
       "title": "Resonare",
       "imageSrc": "projects/resonare.png",
       "description": "Social music discovery app inspired by Letterboxd for tracking and sharing album experiences. Currently in beta testing.",
